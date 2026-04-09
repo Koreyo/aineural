@@ -1,5 +1,5 @@
 // 使用 HTTP API 调用云函数
-const API_BASE = 'https://yun-develop-8gcjefhj9c90ce20-1416943800.ap-shanghai.app.tcloudbase.com/token-api';
+const API_BASE = '/api/';
 
 export async function callFunction(action, params = {}) {
   try {
