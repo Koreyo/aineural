@@ -26,7 +26,6 @@
 
 🔗 **访问地址**：https://aineural.cloud/tokenhub
 
-管理后台：https://aineural.cloud/tokenhub/#/admin
 
 ## 技术栈
 
